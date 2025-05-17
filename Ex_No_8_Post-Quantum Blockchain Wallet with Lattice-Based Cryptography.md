@@ -74,8 +74,10 @@ Transactions require a quantum-resistant signature for authentication.
 
 If a traditional quantum-vulnerable hash is used, the transaction fails.
 
+![b81](https://github.com/user-attachments/assets/b295afcc-2ad3-4c16-b9c6-3a02603e3f5c)
 
-# RESULT : 
+![b82](https://github.com/user-attachments/assets/e5fb5708-e712-4f30-aa69-f71022290d40)
+
 High-Level Overview:
 First quantum-safe Ethereum-compatible wallet prototype.
 
@@ -87,4 +89,8 @@ Demonstrates how Ethereum will transition to post-quantum security.
 
 
 Inspired by NIST’s post-quantum cryptography competition.
+
+# RESULT :
+
+Thus to create a quantum-resistant wallet using lattice-based cryptography instead of traditional ECDSA, ensuring that future quantum computers cannot break private keys is implemented successfully.
 
